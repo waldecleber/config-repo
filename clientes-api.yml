@@ -1,0 +1,3 @@
+test:
+  url:
+    http://clientes-api:8080
